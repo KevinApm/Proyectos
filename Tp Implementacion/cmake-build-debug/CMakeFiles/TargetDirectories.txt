@@ -1,6 +1,0 @@
-D:/facultad/Compu/Algorito y estructura de datos 2 (RECU)/Trabajos Prácticos/algo2-2023c1-grupal-main-tp3-tp3/tp3/tp3/cmake-build-debug/CMakeFiles/gtest.dir
-D:/facultad/Compu/Algorito y estructura de datos 2 (RECU)/Trabajos Prácticos/algo2-2023c1-grupal-main-tp3-tp3/tp3/tp3/cmake-build-debug/CMakeFiles/gtest_main.dir
-D:/facultad/Compu/Algorito y estructura de datos 2 (RECU)/Trabajos Prácticos/algo2-2023c1-grupal-main-tp3-tp3/tp3/tp3/cmake-build-debug/CMakeFiles/correrTests.dir
-D:/facultad/Compu/Algorito y estructura de datos 2 (RECU)/Trabajos Prácticos/algo2-2023c1-grupal-main-tp3-tp3/tp3/tp3/cmake-build-debug/CMakeFiles/correrValgrind.dir
-D:/facultad/Compu/Algorito y estructura de datos 2 (RECU)/Trabajos Prácticos/algo2-2023c1-grupal-main-tp3-tp3/tp3/tp3/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/facultad/Compu/Algorito y estructura de datos 2 (RECU)/Trabajos Prácticos/algo2-2023c1-grupal-main-tp3-tp3/tp3/tp3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
